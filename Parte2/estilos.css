@@ -1,0 +1,15 @@
+div{
+    border: 1px solid red;
+    width: 200px;
+    margin-bottom:10px;
+    margin-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: block;
+ 
+}
+
+h2, p{
+    
+    width: 90%;
+}
